@@ -20,7 +20,7 @@ A Dataset of Peer Reviews (PeerRead): Collection, Insights and NLP Applications 
 
 14.7K paper drafts and the corresponding accept/reject decisions in top-tier venues including ACL, NIPS and ICLR
 
-
+---
 
 Can We Automate Scientific Reviewing? https://arxiv.org/abs/2102.00176
 
@@ -62,7 +62,7 @@ The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery https:
 
 LLM-based agents approach human-level review performance
 
-
+---
 
 Automatically Evaluating the Paper Reviewing Capability of Large Language Models https://arxiv.org/html/2502.17086v1
 
@@ -82,7 +82,7 @@ think:
 
 alignments between the review points and final decision is a challenging task;
 
-
+---
 
 The role of large language models in the peer-review process: opportunities and challenges for medical journal reviewers and editors https://pubmed.ncbi.nlm.nih.gov/40122672/
 
@@ -92,7 +92,7 @@ This review explores the integration of LLMs into peer review, highlighting thei
 
 recommend using LLMs as complementary tools under clear guidelines to support, not replace;
 
-
+---
 
 The AI Review Lottery: Widespread AI-Assisted Peer Reviews Boost Paper Scores and Acceptance Rates https://arxiv.org/abs/2405.02150
 
@@ -104,7 +104,7 @@ at least 15.8% of reviews were written with AI assistance;
 
 LLMs offer positive assessments;
 
-
+---
 
 Is llm a reliable reviewer? a comprehensive evaluation of llm on automatic paper reviewing tasks https://aclanthology.org/2024.lrec-main.816/
 
@@ -114,19 +114,19 @@ a dataset containing 196 review-revision multiple-choice questions (RR-MCQ) with
 
 reviews still fall short of fully meeting human expectations;
 
-
+---
 
 Can large language models provide useful feedback on research papers? A large-scale empirical analysis https://arxiv.org/abs/2310.01783
 
 3 Oct 2023
 
-
+---
 
 GPT4 is Slightly Helpful for Peer-Review Assistance: A Pilot Study https://arxiv.org/pdf/2307.05492
 
 16 Jun 2023
 
-
+---
 
 AI-Driven Review Systems: Evaluating LLMs in Scalable and Bias-Aware Academic Reviews https://arxiv.org/pdf/2408.10365
 
@@ -134,7 +134,7 @@ Reviewer Arena
 
 reduce risks of misuse, score inflation, overconfident assessments, and uneven distributions
 
-
+---
 
 Reviewing Scientific Papers for Critical Problems With Reasoning LLMs: Baseline Approaches and Automatic Evaluation https://arxiv.org/abs/2505.23824
 
@@ -143,13 +143,13 @@ Reviewing Scientific Papers for Critical Problems With Reasoning LLMs: Baseline 
 * reasoning model
 * test paper with Critical Problems
 
-
+---
 
 Are We There Yet? Revealing the Risks of Utilizing Large Language Models in Scholarly Peer Review https://arxiv.org/abs/2412.01708
 
 2 Dec 2024
 
-
+---
 
 A Critical Examination of the Ethics of AI-Mediated Peer Review https://arxiv.org/abs/2309.12356
 
@@ -157,13 +157,13 @@ A Critical Examination of the Ethics of AI-Mediated Peer Review https://arxiv.or
 
 a tendency to generate hallucinated content without adequate verification
 
-
+---
 
 Human-in-the-loop ai reviewing: Feasibility, opportunities, and risks https://aisel.aisnet.org/jais/vol25/iss1/7/
 
 a tendency to generate hallucinated content without adequate verification
 
-
+---
 
 An Automatic and Cost-Efficient Peer-Review Framework for Language Generation Evaluation https://arxiv.org/abs/2410.12265
 
@@ -183,7 +183,7 @@ SchNovel: benchmark/dataset 15000 pairs of papers
 
 RAG-Novelty, a retrieval-augmented method that mirrors human peer review by grounding novelty assessment in retrieved context;
 
-
+---
 
 AI-based novelty detection in crowdsourced idea spaces https://www.tandfonline.com/doi/full/10.1080/14479338.2023.2215740
 
@@ -203,7 +203,7 @@ ICADL 2021
 
 hierarchical quality control and multi-round refinement loops?
 
-
+---
 
 Peer Review as A Multi-Turn and Long-Context Dialogue with Role-Based Interactions https://arxiv.org/abs/2406.05688
 
@@ -211,7 +211,7 @@ Peer Review as A Multi-Turn and Long-Context Dialogue with Role-Based Interactio
 
 dataset: ReviewMT
 
-
+---
 
 CycleResearcher: Improving Automated Research via Automated Review https://arxiv.org/abs/2411.00816
 
@@ -225,7 +225,7 @@ CycleResearcher: a baseline language model fine-tuned for academic writing
 
 CycleReviewer: an LLM specialized in evaluating research papers
 
-
+---
 
 DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking Process https://arxiv.org/abs/2503.08569
 
@@ -233,7 +233,7 @@ DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking Proce
 
 DeepReview-13K, a curated dataset with structured annotations;
 
-
+---
 
 OpenReviewer: A Specialized Large Language Model for Generating Critical Scientific Paper Reviews https://arxiv.org/abs/2412.11948
 
@@ -241,7 +241,7 @@ OpenReviewer: A Specialized Large Language Model for Generating Critical Scienti
 
 Llama-OpenReviewer-8B: finetuned on a large dataset of expert reviews(79,000) from top ML conferences
 
-
+---
 
 Automated Review Generation Method Based on Large Language Models https://arxiv.org/abs/2407.20906
 
@@ -249,7 +249,7 @@ Automated Review Generation Method Based on Large Language Models https://arxiv.
 
 ???
 
-
+---
 
 ReviewEval: An Evaluation Framework for AI-Generated Reviews https://arxiv.org/abs/2502.11736
 
@@ -257,7 +257,7 @@ ReviewEval: An Evaluation Framework for AI-Generated Reviews https://arxiv.org/a
 
 a  iterative self-refinement cycle to align LLM-generated reviews with human accuracy and analytical depth
 
-
+---
 
 The Quality Assist: A Technology-Assisted Peer Review Based on Citation Functions to Predict the Paper Quality https://ieeexplore.ieee.org/document/9968010
 
@@ -277,25 +277,25 @@ A Dataset of Peer Reviews (PeerRead): Collection, Insights and NLP Applications 
 
 14.7K paper drafts and the corresponding accept/reject decisions in top-tier venues including ACL, NIPS and ICLR
 
-
+---
 
 Can We Automate Scientific Reviewing? https://arxiv.org/abs/2102.00176
 
 30 Jan 2021
 
-
+---
 
 NLPEER: A Unified Resource for the Computational Study of Peer Review https://arxiv.org/abs/2211.06651
 
 19 May 2023
 
-
+---
 
 Reviewer2: Optimizing Review Generation Through Prompt Generation. https://arxiv.org/abs/2402.10886
 
 2 Dec 2024
 
-
+---
 
 LLMs Assist NLP Researchers: Critique Paper (Meta-)Reviewing https://arxiv.org/abs/2406.16253
 
@@ -311,7 +311,7 @@ simulate the interactions among different roles;
 
 generate review comments and discussion dialogues for each role;
 
-
+---
 
 MARG: Multi-Agent Review Generation for Scientific Papers https://arxiv.org/abs/2401.04259
 
@@ -322,12 +322,12 @@ MARG: using multiple LLM instances that engage in internal discussion
 MARG-S: aspect-specific agents (model) separately generate comments on experiments, clarity, and impact: perform better
 
 
-
+---
 
 
 PaperEval: A universal, quantitative, and explainable paper evaluation method powered by a multi-agent system https://www.sciencedirect.com/science/article/abs/pii/S0306457325001669
 
-
+---
 
 ReviewAgents: Bridging the Gap Between Human and AI-Generated Paper Reviews https://arxiv.org/abs/2503.08506
 
@@ -346,13 +346,13 @@ ReviewAgents: Bridging the Gap Between Human and AI-Generated Paper Reviews http
 * ReviewAgents
 * ReviewBench
 
-
+---
 
 PiCO: Peer Review in LLMs based on the Consistency Optimization https://arxiv.org/abs/2402.01830
 
 21 Feb 2025
 
-
+---
 
 Treereview: A dynamic tree of questions framework for deep and efficient llm-based scientific peer review https://www.arxiv.org/abs/2506.07642
 
@@ -366,7 +366,7 @@ recursively refines broad review aspects into specific inquiries
 
 dynamic question expansion mechanism
 
-
+---
 
 Remor: Automated peer review generation with llm reasoning and multi-objective reinforcement learning https://arxiv.org/abs/2505.11718
 
@@ -378,7 +378,7 @@ Human-aligned Peer Review Reward (HPRR): quantifies the quality of peer review f
 
 multi-objective reinforcement learning;
 
-
+---
 
 MAMORX: Multi-agent Multi-Modal Scientific Review Generation with External Knowledge https://openreview.net/forum?id=frvkE8rCfX
 
