@@ -1,8 +1,8 @@
 # Awesome Peer Review Process
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Topic](https://img.shields.io/badge/Topic-AI%20for%20Peer%20Review-blue.svg)](#)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![arXiv](https://img.shields.io/badge/arXiv-2604.27924-b31b1b.svg)](https://arxiv.org/abs/2604.27924)[![Topic](https://img.shields.io/badge/Topic-AI%20for%20Peer%20Review-blue.svg)](#)
 
-Paper list for our ACL 2026 paper **Can AI Be a Good Peer Reviewer? A Survey of Peer Review Process, Evaluation, and the Future**.
+Paper list for our ACL 2026 paper [**Can AI Be a Good Peer Reviewer? A Survey of Peer Review Process, Evaluation, and the Future**](https://arxiv.org/abs/2604.27924).
 
 This repository collects papers, datasets, benchmarks, and tools for AI-assisted peer review. It follows the survey taxonomy: **peer review generation**, **after-review tasks**, and **benchmark perspectives**.
 
@@ -39,6 +39,7 @@ This repository collects papers, datasets, benchmarks, and tools for AI-assisted
   - [Aspect-Oriented Evaluation](#aspect-oriented-evaluation)
 - [🗃️ Datasets](#️-datasets)
 - [🛠️ Data Collection and Document Processing Tools](#️-data-collection-and-document-processing-tools)
+- [📝 Citation](#-citation)
 
 ---
 
@@ -263,3 +264,21 @@ This repository collects papers, datasets, benchmarks, and tools for AI-assisted
 | [MagicDoc](https://github.com/opendatalab/magic-doc) | PDF → Markdown | Bulk PDF conversion |
 | [MinerU](https://github.com/opendatalab/MinerU) | PDF → Markdown / JSON | Layout-aware and reading-order faithful parsing |
 | [Semantic Scholar API](https://www.semanticscholar.org/product/api) | DOI → BibJSON | Reference and citation enrichment |
+
+---
+
+# 📝 Citation
+
+If you find this repository useful, please consider citing our paper:
+
+```bibtex
+@misc{wu2026aigoodpeerreviewer,
+      title={Can AI Be a Good Peer Reviewer? A Survey of Peer Review Process, Evaluation, and the Future}, 
+      author={Sihong Wu and Owen Jiang and Yilun Zhao and Tiansheng Hu and Yiling Ma and Kaiyan Zhang and Manasi Patwardhan and Arman Cohan},
+      year={2026},
+      eprint={2604.27924},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2604.27924}, 
+}
+```
